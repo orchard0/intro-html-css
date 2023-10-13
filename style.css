@@ -1,0 +1,14 @@
+html {
+	background-color: #878e76;
+}
+
+img {
+	width: auto;
+	height: 300px;
+	border: 2px;
+	border-style: solid;
+}
+
+#club {
+	border-radius: 50%;
+}
